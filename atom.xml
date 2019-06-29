@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>C:/Users/lenovo/Documents/Gridea/output</id>
+    <id>http://steveli.net</id>
     <title>Steve Li</title>
-    <updated>2019-06-29T07:22:03.263Z</updated>
+    <updated>2019-06-29T11:12:42.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="C:/Users/lenovo/Documents/Gridea/output"/>
-    <link rel="self" href="C:/Users/lenovo/Documents/Gridea/output/atom.xml"/>
+    <link rel="alternate" href="http://steveli.net"/>
+    <link rel="self" href="http://steveli.net/atom.xml"/>
     <subtitle> 经历是一笔宝贵的财富</subtitle>
-    <logo>C:/Users/lenovo/Documents/Gridea/output/images/avatar.png</logo>
-    <icon>C:/Users/lenovo/Documents/Gridea/output/favicon.ico</icon>
+    <logo>http://steveli.net/images/avatar.png</logo>
+    <icon>http://steveli.net/favicon.ico</icon>
     <rights>All rights reserved 2019, Steve Li</rights>
     <entry>
         <title type="html"><![CDATA[沟通]]></title>
-        <id>C:/Users/lenovo/Documents/Gridea/output/post/gou-tong/index.html</id>
-        <link href="C:/Users/lenovo/Documents/Gridea/output/post/gou-tong/index.html">
+        <id>http://steveli.net/post/gou-tong</id>
+        <link href="http://steveli.net/post/gou-tong">
         </link>
         <updated>2019-06-29T07:19:49.000Z</updated>
         <content type="html"><![CDATA[<p>沟通是个非常困难的活儿。</p>
@@ -21,9 +21,18 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>http://steveli.net/post/about</id>
+        <link href="http://steveli.net/post/about">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+        <content type="html"><![CDATA[<p>Steve是一名知识工作者，主要生活在北京。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>C:/Users/lenovo/Documents/Gridea/output/post/hello-gridea/index.html</id>
-        <link href="C:/Users/lenovo/Documents/Gridea/output/post/hello-gridea/index.html">
+        <id>http://steveli.net/post/hello-gridea</id>
+        <link href="http://steveli.net/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
